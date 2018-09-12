@@ -3,7 +3,7 @@
 
 # 수업
 **[[PSY101] Research and Data Analysis in Psychology](PSY101__Research-and-Data-Analysis-in-Psychology)**
-**[[SE324a] Numerical Analysis] (SE324a_Numerical-Analysis)**
+**[[SE324a] Numerical Analysis](SE324a_Numerical-Analysis)**
 
 # STUDY
 
